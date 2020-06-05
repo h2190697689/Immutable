@@ -56,8 +56,3 @@
    immutableData.concat()
    immutableData.merge({name: "hejiamin"})
 ```
-
-#### Set
-
-
-#### Record
